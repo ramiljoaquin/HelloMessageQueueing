@@ -1,2 +1,2 @@
-# HelloMessageQueueing
-Azure Message Queueing
+# hello_messagequeueing
+Service Bus Message Queueing
